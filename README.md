@@ -6,4 +6,24 @@
 
 # Azariya - Computer Geek 🖥️
 
+### 🚀 About Me
+- 💻 Cybersecurity & Programming
+- 🐧 Linux User
+- 🌐 Web Development
+- ⚡ Building cool projects
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,bash,git,github,vscode" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azariyadigital&show_icons=true&theme=tokyonight"/>
+</p>
+
+### 🔥 Contribution Snake
 ![](https://raw.githubusercontent.com/azariyadigital/azariyadigital/output/github-contribution-grid-snake-dark.svg)
+
+### 🌍 Connect With Me
+- GitHub: https://github.com/azariyadigital
