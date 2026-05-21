@@ -9,6 +9,7 @@
 ###  About Me
 -  Cybersecurity & Programming
 -  Linux User
+-  self Taught
 -  Building cool projects
 
 ###  Languages & Tools
