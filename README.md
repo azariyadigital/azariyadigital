@@ -7,7 +7,7 @@
 # Azariya - Computer Geek 🖥️
 
 ###  About Me
--  Cybersecurity & Programming
+-  Cybersecurity Geek & Programmer
 -  Linux User
 -  self Taught
 -  Building cool projects
