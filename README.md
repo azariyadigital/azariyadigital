@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=250&section=header&text=Azariya%20Chombe&fontSize=70&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700"/>
 </p>
-
 # Azariya - Computer Geek 🖥️
 
 ### About Me
