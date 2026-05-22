@@ -9,7 +9,7 @@
 - Cybersecurity Enthusiast & Programmer
 - Linux User
 - Self Taught Developer
-- Building projects focused on cybersecurity & programming
+- Building projects focused on cybersecurity,programming,Robotics
 
 ### Languages & Tools
 <p>
