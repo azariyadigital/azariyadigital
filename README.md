@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,8b0000&height=250&section=header&text=AZARIYA%20CHOMBE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Linux%20%7C%20Programming&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,00ff99&height=250&section=header&text=AZARIYA%20CHOMBE&fontSize=65&fontColor=00ff99&animation=twinkling&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Developer&descAlignY=55&descSize=20"/>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRtY2U5NzBwb3E1Y2p0eTQ4Z2h2eDV4NnJjcWl6M2E5aDlhY2x4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
 </p>
