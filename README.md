@@ -6,9 +6,9 @@
 # Azariya Chombe - Computer Geek 
 
 ### About Me
-- Cybersecurity Geek & Programmer
+- Cybersecurity Enthusiast & Programmer
 - Linux User
-- Self-Taught Developer
+- Self Taught Developer
 - Building projects focused on cybersecurity & programming
 
 ### Languages & Tools
