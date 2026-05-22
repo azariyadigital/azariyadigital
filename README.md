@@ -10,7 +10,7 @@
 -  Cybersecurity Geek & Programmer
 -  Linux User
 -  self Taught
--  Building cool projects
+-  Building projects on Cyber sec and programming duo
 
 ###  Languages & Tools
 <p>
@@ -22,3 +22,4 @@
 
 ### - Connect With Me
 - GitHub: https://github.com/azariyadigital
+- Email: lilazar11s@gmail.com
