@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRtY2U5NzBwb3E1Y2p0eTQ4Z2h2eDV4NnJjcWl6M2E5aDlhY2x4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
 </p>
 
-# Azariya - Computer Geek 
+# Azariya Chombe - Computer Geek 
 
 ### About Me
 - Cybersecurity Geek & Programmer
