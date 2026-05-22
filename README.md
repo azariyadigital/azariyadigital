@@ -8,8 +8,8 @@
 ### About Me
 - Cybersecurity Enthusiast & Programmer
 - Linux User
-- Self Taught Developer
-- Building projects focused on cybersecurity,programming,Robotics
+- Self Taught Engineer , Programmer
+- Building projects focused on cybersecurity, programming, Robotics
 
 ### Languages & Tools
 <p>
