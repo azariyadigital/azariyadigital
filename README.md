@@ -10,7 +10,7 @@
 - Linux User
 - Obsessed with: How Things work, Engineering, Cyber Security, Programming.
 - Main Holic: Reverse Engineering, Red Teaming, Networking, Exploit Developing.
-- Building projects focused on cybersecurity, programming and Robotics.
+- Building projects focused on cybersecurity and programming.
 
 ### Languages & Tools
 <p>
