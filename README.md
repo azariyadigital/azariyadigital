@@ -24,6 +24,27 @@
   <img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge&logoColor=white" />
 </p>
 
+###  Red Teaming
+<p>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-1E1E1E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sliver-5A67D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Havoc-111111?style=for-the-badge&logoColor=white" />
+</p>
+
+###  Networking
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
+</p>
+
+###  Exploit Development
+<p>
+  <img src="https://img.shields.io/badge/GDB-800000?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pwntools-222222?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-00599C?style=for-the-badge&logoColor=white" />
+</p>
+
 ![](https://raw.githubusercontent.com/azariyadigital/azariyadigital/output/github-contribution-grid-snake-dark.svg)
 ### Connect With Me
 - GitHub: https://github.com/azariyadigital
