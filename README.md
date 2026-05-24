@@ -14,11 +14,16 @@
 
 ### Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,bash" />
+</p>
+
+### Reverse Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge&logoColor=white" />
 </p>
 
 ![](https://raw.githubusercontent.com/azariyadigital/azariyadigital/output/github-contribution-grid-snake-dark.svg)
-
 ### Connect With Me
 - GitHub: https://github.com/azariyadigital
 - Email: lilazar11s@gmail.com
