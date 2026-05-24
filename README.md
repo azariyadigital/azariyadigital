@@ -12,48 +12,45 @@
 - Main Holic: Reverse Engineering, Red Teaming, Networking, Exploit Developing.
 - Building projects focused on cybersecurity and programming.
 
-###  Learning Programming & Development
+### Programming & Development
 <p>
   <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,bash" />
 </p>
 
-###  Programming Learning Platforms
+### Programming Platforms
 <p>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" />
 </p>
 
-###  Reverse Engineering
+### Reverse Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge&logoColor=white" />
 </p>
 
-###  Red Teaming
+### Red Teaming
 <p>
   <img src="https://img.shields.io/badge/Cobalt_Strike-1E1E1E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Sliver-5A67D8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Havoc-111111?style=for-the-badge&logoColor=white" />
 </p>
 
-###  Networking
+### Networking
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
 </p>
 
-###  Exploit Development
+### Exploit Development
 <p>
   <img src="https://img.shields.io/badge/GDB-800000?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Pwntools-222222?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/x64dbg-00599C?style=for-the-badge&logoColor=white" />
 </p>
 
-###  Cybersecurity Practice Platforms
+### Cybersecurity Practice Platforms
 <p>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
