@@ -12,14 +12,15 @@
 - Main Holic: Reverse Engineering, Red Teaming, Networking, Exploit Developing.
 - Building projects focused on cybersecurity and programming.
 
-### Languages & Tools
+###  Programming & Development
 <p>
   <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,bash" />
 </p>
 
-### Reverse Engineering
+###  Reverse Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge&logoColor=white" />
 </p>
 
