@@ -58,21 +58,6 @@
   <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-### Socials
-<p>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/YOUR_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
 ![](https://raw.githubusercontent.com/azariyadigital/azariyadigital/output/github-contribution-grid-snake-dark.svg)
 ### Connect With Me
 - GitHub: https://github.com/azariyadigital
