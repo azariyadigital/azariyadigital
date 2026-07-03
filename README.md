@@ -24,19 +24,6 @@
   <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logoColor=white" />
 </p>
 
-### Reverse Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-</p>
-
-### Red Teaming
-<p>
-  <img src="https://img.shields.io/badge/Cobalt_Strike-1E1E1E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sliver-5A67D8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Havoc-111111?style=for-the-badge&logoColor=white" />
-</p>
-
 ### Networking
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
