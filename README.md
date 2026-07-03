@@ -18,12 +18,6 @@
   <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,bash" />
 </p>
 
-### Programming Platforms
-<p>
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logoColor=white" />
-</p>
-
 ### Networking
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
