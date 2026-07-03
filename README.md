@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,00ff99&height=250&section=header&text=-Azariya&fontSize=70&fontColor=00ff99&animation=twinkling&fontAlignY=38&desc=Computer%20Geek%20%7C%20Engineer%20Mindset%20%7C%20Entrepreneur&descAlignY=58&descSize=20"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRtY2U5NzBwb3E1Y2p0eTQ4Z2h2eDV4NnJjcWl6M2E5aDlhY2x4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F3N3ZndW13cmh4N3R4ZXl5bndrYTM4ZzV5Y29wM3M2bW95dmsydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="700"/>
 </p>
 
 # Azariya Chombe - Computer Geek 
