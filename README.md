@@ -10,8 +10,8 @@
 ### About Me
 - Cybersecurity Enthusiast & Programmer
 - Linux User
-- Obsessed with: How Things work, Engineering, Cyber Security, Programming.
-- Main Holic: Reverse Engineering, Red Teaming, Networking, Exploit Developing.
+- Obsessed with: How Things work, Engineering, Cyber Security, Programming, Embedded Systems.
+- Mainly Obsessed (Cyber Security): Reverse Engineering, Networking, Web Security.
 - Building projects focused on cybersecurity and programming.
 ### Programming & Development
 <p>
